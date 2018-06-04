@@ -1668,7 +1668,7 @@
 		}
 
 	body {
-		color: #212931;
+		color: #ffffff;
 	}
 
 	body, input, select, textarea {
@@ -1812,12 +1812,12 @@
 	}
 
 	input, select, textarea {
-		color: #212931;
+		color: #ffffff;
 	}
 
 	a {
-		color: #212931;
-		border-bottom-color: rgba(33, 41, 49, 0.5);
+		color: #ffffff;
+		border-bottom-color: rgba(220, 220, 220, 0.5);
 	}
 
 		a:hover {
@@ -1826,11 +1826,11 @@
 		}
 
 	strong, b {
-		color: #212931;
+		color: #ffffff;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #212931;
+		color: #ffffff;
 	}
 
 	blockquote {
@@ -2021,8 +2021,8 @@
 	button,
 	.button {
 		background-color: transparent;
-		box-shadow: inset 0 0 0 2px #212931;
-		color: #212931 !important;
+		box-shadow: inset 0 0 0 2px #ffffff;
+		color: #ffffff !important;
 	}
 
 		input[type="submit"]:hover,
@@ -3562,7 +3562,8 @@
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+/*		background-color: #ffffff;*/
+        background: rgba(255, 255, 255, 0.175);
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
@@ -3754,13 +3755,14 @@
 /* Footer */
 
 	#footer {
-		color: #717981;
+		color: #ffffff;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #f5f5f5;
-		color: #909498;
+/*		background-color: #f5f5f5;*/
+        background: rgba(255, 255, 255, 0.175);
+		color: #ffffff;
 		cursor: default;
 		position: relative;
 		margin: 0 auto;
@@ -3770,11 +3772,11 @@
 	}
 
 		#footer input, #footer select, #footer textarea {
-			color: #717981;
+			color: #ffffff;
 		}
 
 		#footer a {
-			color: #717981;
+			color: #ffffff;
 			border-bottom-color: rgba(113, 121, 129, 0.5);
 		}
 
@@ -3784,11 +3786,11 @@
 			}
 
 		#footer strong, #footer b {
-			color: #717981;
+			color: #ffffff;
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #717981;
+			color: #ffffff;
 		}
 
 		#footer blockquote {
@@ -3814,8 +3816,8 @@
 		#footer button,
 		#footer .button {
 			background-color: transparent;
-			box-shadow: inset 0 0 0 2px #717981;
-			color: #717981 !important;
+			box-shadow: inset 0 0 0 2px #ffffff;
+			color: #ffffff !important;
 		}
 
 			#footer input[type="submit"]:hover,
@@ -3846,7 +3848,7 @@
 				}
 
 		#footer label {
-			color: #717981;
+			color: #ffffff;
 		}
 
 		#footer input[type="text"],
@@ -4322,13 +4324,13 @@
 		}
 
 		#navPanelToggle.alt {
-			background-color: rgba(255, 255, 255, 0.875);
+			background: rgba(255, 255, 255, 0.175);
 			box-shadow: 0 0.125rem 0.75rem 0 rgba(30, 37, 45, 0.25);
-			color: #212931;
+			color: #ffffff;
 		}
 
 			#navPanelToggle.alt:hover {
-				background-color: #ffffff;
+				background: rgba(255, 255, 255, 0.175);
 			}
 
 		@media screen and (max-width: 980px) {
@@ -4359,7 +4361,7 @@
 		transition: transform 0.5s ease, box-shadow 0.5s ease, visibility 0.5s;
 		display: none;
 		-webkit-overflow-scrolling: touch;
-		background: #ffffff;
+		background: rgba(255, 255, 255, 0.175);
 		box-shadow: none;
 		color: #212931;
 		height: 100%;
@@ -4407,7 +4409,7 @@
 			transition: color 0.2s ease-in-out;
 			-webkit-tap-highlight-color: transparent;
 			border: 0;
-			color: #909498;
+			color: #ffffff;
 			cursor: pointer;
 			display: block;
 			height: 3.25rem;
