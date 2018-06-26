@@ -82,9 +82,6 @@
 							<li>
                                 <a href="#change">Changelog</a>
                             </li>  	
-							<li>
-                                <a href="#instructions">Instructions</a>
-                            </li>  						
                             <li>
                                 <a href="#services">Downloads</a>
                             </li>      							
@@ -230,8 +227,8 @@
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
                             <h4>Credit</h4>
-                            <p><a href="https://forum.xda-developers.com/member.php?u=5389288">I95swervin</a> | Scripts,Systems,Help,and more is provided by him and his <a href="https://alpha-rom.cf">Alpha-Rom</a></p>
-							<p><a href="https://forum.xda-developers.com/member.php?u=6814590">Askermk2000</a> | Providing MK2000 <a href="https://forum.xda-developers.com/v20/development/h918-h910-us996-ucl-mk2000-kernel-t3708330">Kernel</a></p>
+                            <p><a href="https://forum.xda-developers.com/member.php?u=5389288">I95swervin</a> | Based on his Scripts,Systems,Help,and more is provided by him and his <a href="https://alpha-rom.cf">Alpha-Rom</a></p>
+							<p><a href="https://forum.xda-developers.com/member.php?u=6814590">Askermk2000</a> | Providing MK2000 Kernel <a href="https://forum.xda-developers.com/v20/development/h918-h910-us996-ucl-mk2000-kernel-t3708330">Kernel</a></p>
 							<p><a href="https://forum.xda-developers.com/member.php?u=7055541">Zacharee1</a> | <a href="https://forum.xda-developers.com/v20/themes/mod-aosp-signal-bars-t3551350">Providing UI Mods for the LG V20 </a></p>
 							<p><a href="https://forum.xda-developers.com/member.php?u=4800797">Hundeva</a> | Providing Lean <a href="https://forum.xda-developers.com/android/apps-games/app-lean-launcher-customisable-pixel-t3757408">Launcher</a></p>
 							<p><a href="https://forum.xda-developers.com/member.php?u=4553200">Mentalmuso</a> | Providing WETA UI & Audio <a href="https://forum.xda-developers.com/v20/development/rom-weta-1-0-t3532778">Mods</a></p>
@@ -239,6 +236,11 @@
 							<p><a href="https://forum.xda-developers.com/member.php?u=8263672">Toastyp</a> | Providing H910 Systems</p>
 							<p><a href="https://forum.xda-developers.com/member.php?u=364033">Stangdriver44</a> | Providing oZoP <a href="https://forum.xda-developers.com/v20/how-to/rd-ozop-support-compatibility-t3703822">Mods</a></p>
 							<p><a herf="https://forum.xda-developers.com/member.php?u=1358997">Helf</a> | Providing Camera <a herf="http://buildbox.justbeca.us/jcarlson.html">Mods</a></p>
+							<p><a href="https://forum.xda-developers.com/member.php?u=1278182">Holyman007</a> | CPU Thermal Fix <a herf="https://forum.xda-developers.com/v20/themes/mod-fix-cpu-throttling-charging-gaming-t3650705">Fix</a></p>
+							<p><a href="https://forum.xda-developers.com/member.php?u=5733862">BlackSoulxxx</a> | Updated GPU <a herf="https://forum.xda-developers.com/crossdevice-dev/sony/mod-adreno-vulkan-drivers-snapdragon-t3555141">Drivers</a></p>
+							<p><a href="https://forum.xda-developers.com/member.php?u=1877667">Rootlinux</a> | Stereo Speaker and & Increase Blutooth <a herf="https://forum.xda-developers.com/v20/themes/sound-mod-perfected-stereo-impedance-t3637449">mods</a></p>
+							<p><a href="https://forum.xda-developers.com/member.php?u=2712580">Ctark27</a> | LG V20 Gcam Mods Wide & <a herf="https://forum.xda-developers.com/lg-v30/themes/cstark27-google-camera-mod-wide-angle-t3747263">Regular</a></p>
+							<p><a href="https://forum.xda-developers.com/member.php?u=5416505">still_living714</a> | 3 Tap Knock code <a herf="https://forum.xda-developers.com/v20/themes/3-tap-knock-code-t3720633">mods</a></p>
                         </div>
                     </div>
                     <!--End of Icon Block-->
@@ -271,6 +273,26 @@
                         </div>
                         <!--Icon Block Description-->
                         <div class="icon-block-description">
+							<h4>Changelog | 6/30/18</h4>
+                            <p><span style="font-weight:bold">All-4.0</span>
+							<br>-Minor bug fixes & under the hood changes
+							<br>-All New aroma with instructions built in
+							<br>-Added Stereo Speaker Mods
+							<br>-Added Bluetooth increase Modified
+							<br>-Added the ablility to have 3 tap knock code instead of 6 a minimum
+							<br>-Added all new GPU drivers
+							<br>-All CPU thermal Fix which will not thermal throttle when charging
+							<br>-Updated VS995 to latest 1AC build provided system by I95swervin
+							<br>-Added F800 to the line up
+							<br>-Added Android P emojies found under oZoP Emojies mod
+							<br>-Added New Kernel Options MK2000 Beta builds
+							<br>-Added New Nova launcher option
+							<br>-Updated Josh's camera mod to the latest
+							<br>-All in Google Camera option (Wide and Regular)
+							<br>-Added in the option to have latest Google Dialer and Contacts
+							<br>-Added in LG option zip with updated apps into aroma installer
+							<br>-Added in WETA UI mod for all devices except H990/DS
+							</p>
 							<h4>Changelog | 6/11/18</h4>
                             <p><span style="font-weight:bold">H918-V3.2.1</span><br>-Minor bug fixes<br>-changed installer a bit(if already on 3.2 and is working with no issues no need to flash)<br>-Build # will stay as 3.2</p>
                             <h4>Changelog | 6/9/18</h4>
@@ -280,34 +302,6 @@
                     <!--End of Icon Block-->
                 </div>
 		</section>		
-<!--Main Content Area-->
-    <main id="content">
-      
-	  <section id="instructions" class="introduction scrollto" tabindex="-1">
-
-            <div class="row clearfix">
-
-                <div class="col-3">
-                    <div class="section-heading">
-                        <h2 class="section-title">Super Instructions</h2>
-                        <p class="section-subtitle">Steps to SuperCharge!</p>
-                    </div>
-                        <!--Icon Block Description-->
-                        <div class="icon-block-description">
-                            <h4></h4>
-                            <p></p>
-                        </div>
-                    </div>
-                    <!--End of Icon Block-->
-                    <!--Icon Block-->
-                    <div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-                        <!--Icon Block Description-->
-						<div class="col-2 icon-block icon-top wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-						<blockquote class="imgur-embed-pub" lang="en" data-id="a/84HYSmJ"><a href="//imgur.com/84HYSmJ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-                    </div>
-                    <!--End of Icon Block-->
-                </div>
-		</section>
         <!--Content Section-->
         <div id="services" class="scrollto clearfix">
 
