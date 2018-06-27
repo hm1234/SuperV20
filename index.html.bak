@@ -94,7 +94,8 @@
 
                 </div>
             </div>
-        </div><!--End of Header-->
+        </div>
+		<!--End of Header-->
 
         <!--Banner Content-->
         <div id="banner-content" class="row clearfix">
@@ -105,7 +106,7 @@
                     <h1>Super Rom </h1>
                     <h2>SuperCharge your phone back to life!</h2>
                 </div>
-
+				
                 <!--Call to Action-->
                 <a href="https://t.me/joinchat/GwGUdhCz2ttt5pWy6n9LGw" class="button">Join The Super Rom Group</a>
                 <!--End Call to Action-->
@@ -115,9 +116,25 @@
 				<!--Call to Action-->
                 <a href="https://cash.me/$hmerz" class="button">Donations</a>
                 <!--End Call to Action-->
+				 <!--Icon Block Description-->
+                        <div class="icon-block-description">
+                            <h4></h4>
+                            <p></p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
+                    <!--Icon Block-->
+                    <div class="col-2 icon-block icon-top wow fadeInRight" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInRight;">
+                        <!--Icon Block Description-->
+                        <div class="icon-block-description">
+							<p><img src="candidate.png" alt="logo" width="400" height="300" style="float:right"></p>
+                        </div>
+                    </div>
+                    <!--End of Icon Block-->
             </div>
 
-        </div><!--End of Row-->
+        </div>
+		<!--End of Row-->
     </header>
 
     <!--Main Content Area-->
